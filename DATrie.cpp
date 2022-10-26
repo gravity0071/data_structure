@@ -1,7 +1,7 @@
 //
 // Created by Shawn Wan on 2022/7/26.
 //
-/*
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -130,6 +130,7 @@ void free_DATrie(DATrie * d){
     return;
 }
 
+/*
 int main() {
     Node *root = init_node();
     root->flag = 0;

@@ -1,7 +1,7 @@
 //
 // Created by Shawn Wan on 2022/7/27.
 //
-/*
+
 #include <iostream>
 #include <queue>
 using namespace std;
@@ -66,6 +66,7 @@ void clearNode(Node * root){
     free(root);
     return;
 }
+/*
 int main(){
     Node * root = getNewNode();
     root->flag = 0;

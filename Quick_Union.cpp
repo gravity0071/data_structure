@@ -1,7 +1,7 @@
 //
 // Created by Shawn Wan on 2022/7/28.
 //
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -44,7 +44,7 @@ void clear_set(set * s){
     free(s);
     return;
 }
-
+/*
 int main(){
     // weighted Quick-Union algorithm
     // when use find()

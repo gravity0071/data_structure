@@ -1,7 +1,7 @@
 //
 // Created by Shawn Wan on 2022/7/2.
 //
-/*
+
 #include<iostream>
 #include<time.h>
 #define MAX_OP 20
@@ -71,7 +71,7 @@ void merge_sort(int * arr, int l, int r){
     free(temp);
     return;
 }
-
+/*
 int main(){
     srand(time(0));
     int arr[MAX_OP];

@@ -1,7 +1,7 @@
  //
 // Created by Shawn Wan on 2022/8/1.
 //
-/*
+
 
 #include <iostream>
 using namespace std;
@@ -68,7 +68,7 @@ void UP(int ind){
      if(y > mid) que += query(getRight(ind), x, y, mid + 1, r);
      return que;
  }
-
+/*
  int main(){
      int n, m;
      cin >> n >> m;

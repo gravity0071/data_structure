@@ -1,7 +1,7 @@
 //
 // Created by Shawn Wan on 2022/8/5.
 //
-/*
+
 #include<iostream>
 #include<queue>
 using namespace std;
@@ -126,7 +126,7 @@ void outputTree(Node * root){
         q.pop();
     }
 }
-
+/*
 int main(){
     Node * root = NIL;
     root = insert(root, 5);

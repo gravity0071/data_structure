@@ -1,7 +1,7 @@
 //
 // Created by Shawn Wan on 2022/6/19.
 // check the nearest small one on both side, using monoStack to achieve the func
-/*
+
 #include <iostream>
 #include<stack>
 using namespace std;
@@ -9,7 +9,7 @@ using namespace std;
 #define MAX_N 1000
 int arr[MAX_N];
 int l[MAX_N], r[MAX_N];
-
+/*
 int main() {
     stack<int> q;
     int n;

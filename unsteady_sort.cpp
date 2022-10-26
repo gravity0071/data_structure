@@ -1,7 +1,7 @@
 //
 // Created by Shawn Wan on 2022/7/4.
 //
-/*
+
 #include<iostream>
 #include<time.h>
 #define MAX_OP 20
@@ -46,7 +46,7 @@ void quick_sort(int * arr, int l, int r){
     quick_sort(arr, lp + 1, r);
     return;
 }
-
+/*
 int main(){
     srand(time(0));
     int arr[MAX_OP];

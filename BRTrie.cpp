@@ -1,7 +1,7 @@
 //
 // Created by Shawn Wan on 2022/8/11.
 //
-/*
+
 #include<iostream>
 #include<queue>
 #define RED 0
@@ -205,6 +205,7 @@ void output(Node * root){
     __output(root);
     return;
 }
+ /*
 int main(){
     Node * root = getNewNode(1);
     root = insert(root, 2);
