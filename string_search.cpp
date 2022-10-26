@@ -1,7 +1,6 @@
 //
 // Created by Shawn Wan on 2022/7/21.
 //
-/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -64,7 +63,7 @@ int shiftAnd(char * s, char * t){
     }
     return -1;
 }
-
+/*
 int main() {
     int i= 0;
     int next[5];
