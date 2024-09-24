@@ -9,7 +9,6 @@ using namespace std;
 #define MAX_N 1000
 int arr[MAX_N];
 int l[MAX_N], r[MAX_N];
-/*
 int main() {
     stack<int> q;
     int n;
@@ -39,4 +38,3 @@ int main() {
     cout << ans<< endl;
     return 0;
 }
-*/
