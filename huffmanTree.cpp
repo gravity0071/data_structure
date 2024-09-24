@@ -1,7 +1,7 @@
 //
 // Created by Shawn Wan on 2022/6/22.
 //
-/*
+
 #include <iostream>
 #include<stack>
 #include <string>
@@ -142,4 +142,3 @@ int main(){
     outputTree(huffmanTree);
     inorder(huffmanTree);
 }
-*/
