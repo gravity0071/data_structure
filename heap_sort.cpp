@@ -1,11 +1,11 @@
 //
 // Created by Shawn Wan on 2022/6/30.
-//���ö������������д�С��������
-//���Ӷ�ΪNlogN, �Ƚ������ʼ��Ϊ�󶥶ѣ�Ȼ�����õ����Թ��ɣ����ΰ����Զ��ŵ�����������ʣһ��ʱ���������
+//利用堆排序对数组进行从小到达排序
+//复杂度为NlogN, 先将数组初始化为大顶堆，然后利用弹出对规律，依次把最大对顶放到数组最后，最后剩一个时即排序完成
 //
 
 
-/*
+
 #include<iostream>
 #include<time.h>
 using namespace std;
@@ -67,4 +67,4 @@ int main(){
 
     return 0;
 }
- */
+ 
